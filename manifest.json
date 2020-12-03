@@ -1,26 +1,26 @@
 {
-    "name": "jhardsystex",
-    "short_name": "#jhardsystex",
-    "description": "Somos Una Empresa Que Brindamos SOLUCIONES ESPECIALIZADAS TI, Tenemos Más De 3 Años De Experiencia. Contamos Con Un Equipo De Profesionales, Especializados En El Campo TI, Para Cada Requerimiento Que Usted Solicite.",
+    "name": "Pruebita",
+    "short_name": "#Pruebitaxd",
+    "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
     "background_color": "#2B2B2B",
-    "theme_color": "#1373eb",
+    "theme_color": "#F0DB4F",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "lang": "es-MX",
     "icons": [{
-            "src": "./img/1024.png",
+            "src": "./img/1024x1024.png",
             "sizes": "1024x1024",
             "type": "image/png"
         },
         {
-            "src": "./img/512.png",
+            "src": "./img/512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "./img/384.png",
+            "src": "./img/384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         },
